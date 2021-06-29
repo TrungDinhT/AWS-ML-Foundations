@@ -19,3 +19,9 @@
 2. Inspect data: [Q] does it have outliers/missing values / right format? How to handle/preprocess?
 3. Summary statistics: [Q] does data has a trait/trend? How is data structured/distributed (are the assumptions for model correct)? Min/max/mean/median?
 4. Visualize data: [Q] how to visualize to raise data understanding / tell story?
+
+## Model training
+- Split dataset -> train + test + validation set
+- Model parameters (or weights in DL) -> define how the model behave
+- Loss function -> codify how close the model behaves as expected
+- Many models have to be tested, selected and "mixed" to find the best solution
