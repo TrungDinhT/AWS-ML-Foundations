@@ -43,3 +43,9 @@
     - MSE / RMSE is more meaningful for defining how much our model is wrong. However, it's sensitive to outliers.
     - R-squared / adjusted R-squared gives results in percentage, and it can help to represent how well the model fits with the data. A R-squared too close to 1 may mean that our model is overfitting.
     - MAE is an easy to interpret metric. But it can not penalize large errors, ni show how well model fits.
+
+## Model inference
+- Use the model to:
+  - generate predictions
+  - find patterns in data
+- This is the phase where we see the fruit :). How well the model solves our problem. 
