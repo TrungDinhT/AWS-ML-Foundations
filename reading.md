@@ -18,3 +18,7 @@ There are some conventions on marking the reading as read:
 - [ ] [How to develop ridge regression with Python](https://machinelearningmastery.com/ridge-regression-with-python/)
 - [-] [Bag of words for model sentiment analysis](https://machinelearningmastery.com/deep-learning-bag-of-words-model-sentiment-analysis/)
 - [-] [People detection when out of virtual boundaries with S3, SageMaker and Lambda](https://aws.amazon.com/blogs/machine-learning/protecting-people-through-virtual-boundaries-computer-vision/)
+
+## Lesson 4
+- [-] [Code style guide for Python](https://www.python.org/dev/peps/pep-0008/?#code-lay-out)
+  - [x] Indentation
