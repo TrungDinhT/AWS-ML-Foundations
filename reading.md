@@ -4,7 +4,7 @@ There are some conventions on marking the reading as read:
 - With a check mark [x], the item is read entirely
 - With a minus mark [-], the item is read through, but not in details -> need to be dig into details one day
 
-## Week 2
+## Lesson 2
 - [x] [Calculating new stats in Major League Baseball with Amazon SageMaker](https://aws.amazon.com/blogs/machine-learning/calculating-new-stats-in-major-league-baseball-with-amazon-sagemaker/)
 - [x] [Questions and problems with Machine Learning](https://docs.aws.amazon.com/machine-learning/latest/dg/machine-learning-problems-in-amazon-machine-learning.html)
 - [ ] [Flagging suspicious healthcare claims with Amazon SageMaker](https://aws.amazon.com/blogs/machine-learning/flagging-suspicious-healthcare-claims-with-amazon-sagemaker/)
