@@ -22,3 +22,5 @@ There are some conventions on marking the reading as read:
 ## Lesson 4
 - [-] [Code style guide for Python](https://www.python.org/dev/peps/pep-0008/?#code-lay-out)
   - [x] Indentation
+- [x] [Docstrings convention](https://www.python.org/dev/peps/pep-0257/)
+- [-] [Numpy docstrings guide](https://numpydoc.readthedocs.io/en/latest/format.html) 
